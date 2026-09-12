@@ -9,7 +9,8 @@ Experienced **Mobile Developer with 3+ years of professional experience** specia
 - 📱 **3+ Years of Experience** in Native Android & Cross-Platform Mobile Development.
 - 🛠️ Specialized in building Enterprise Applications (HRMS, Management Systems, Ticketing).
 - 🎨 Passionate about Clean Architecture, State Management, and UI/UX Details.
-- 📫 How to reach me: **[your-email@gmail.com](mailto:kaungmhtetdev2026@gmail.com)**
+- 📫 How to reach me: **[kaungmhtetdev2026@gmail.com](mailto:kaungmhtetdev2026@gmail.com)**
+- - 💼 LinkedIn: **[linkedin.com/in/(https://www.linkedin.com/in/km-h-2368a8397?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/in/yourprofile)**
 
 ---
 
